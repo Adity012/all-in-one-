@@ -46,4 +46,4 @@ restart - To restart the bot
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 ## License
-[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/cryptostark/All_In_One/blob/main/LICENCE)
+[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/Adity012/all-in-one-/blob/main/LICENCE)
